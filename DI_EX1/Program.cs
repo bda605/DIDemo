@@ -12,7 +12,7 @@ namespace DI_EX1
         {
         }
     }
-    
+    //DI第一支範例
     interface IMessageServie 
     {
         void Send(User user, string msg);
